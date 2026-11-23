@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Merhaba%2C%20ben%20Talha%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Merhaba%2C%20ben%20Talha%20&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=xTalhacetin&label=Profil%20Ziyaret&color=8b5cf6&style=for-the-badge" alt="ziyaretçi sayacı" />
