@@ -14,44 +14,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 Hakkımda
-
-```js
-const talha = {
-  konum:          "🇹🇷 Türkiye",
-  kullandıklarım: ["C", "JavaScript", "HTML", "CSS"],
-  projelerim:     ["🤖 Discord Botları", "🧮 YDYO Hesaplayıcı"],
-  hobiler:        ["🎮 Oyun", "🎧 Müzik", "💻 Kodlama"],
-  eğlenceliBilgi: "Bug'ları değil, feature'ları severim 😄",
-};
-```
-
-- 🤖 **Discord botları** geliştiriyorum (discord.js)
-- 🔭 Şu an **yeni projeler** üzerinde çalışıyorum
-- 🌱 Sürekli yeni teknolojiler **öğreniyorum**
-- 👯 **Açık kaynak** projelerde işbirliğine açığım
-- ⚡ Kahvesiz kod yazmam ☕
-
----
-
-## 🛠️ Teknolojiler & Araçlar
-
-<div align="center">
-
-### 💻 Diller
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,python&perline=8" />
-
-### ⚙️ Framework & Kütüphaneler
-<img src="https://skillicons.dev/icons?i=nodejs,discordjs,express,bootstrap,tailwind,mongodb&perline=8" />
-
-### 🧰 Araçlar
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,vercel&perline=8" />
-
-</div>
-
----
 
 ## 📊 GitHub İstatistiklerim
 
@@ -68,7 +30,7 @@ const talha = {
 
 ---
 
-## 🐍 Katkı Yılanım
+## 🐍 
 
 <div align="center">
 <picture>
